@@ -1,0 +1,52 @@
+## 🗄️ MySQL Database Setup  
+
+Before running the project, create the database and required tables in MySQL.  
+
+```sql
+-- Create database
+create database bankmangementsystem;
+
+-- Use the database
+use bankmangementsystem;
+
+-- Signup
+create table signup(
+formno varchar(20),name varchar(20),
+fname varchar(20),dob varchar(20),
+gender varchar(20),email varchar(30),
+marital varchar(20),address varchar(50),
+city varchar(20), state varchar(20),
+pin varchar(20));
+
+select * from signup;
+
+
+--Signuptwo
+create table signuptwo(
+formno varchar(20),sreligion varchar(20),
+scategory varchar(20),sincome varchar(20),
+seducation varchar(20), soccupation varchar(20),
+pan varchar(20),aadhar varchar(20),seniorcitizen varchar(20),
+existingAccount varchar(20));
+
+select * from signuptwo;
+
+
+--Signupthree
+create table signupthree(
+formno varchar(20),accountType varchar(20),cardnumber varchar(20), pinnumber varchar(20),
+facility varchar(100));
+
+select * from signupthree;
+
+--Login
+create table login(formno varchar(20), cardnumber varchar(20), pinnumber varchar(20));
+
+select * from login;
+
+--Bank
+create table bank(pinnumber varchar(20), shortDate varchar (50),type varchar(20),num varchar (20));
+
+select * from bank;
+
+
