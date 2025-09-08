@@ -27,7 +27,7 @@ This project is built with **Java, Swing, and JDBC**, providing a simple interfa
 ![Login Page](https://drive.google.com/uc?export=view&id=1SWixBui4oK8caP5sl_yY-8q45Zsk0Fep)  
 
 ### 2️⃣ Dashboard / Main Menu  
-![Dashboard]((https://drive.google.com/uc?export=view&id=1ObVrdjRnuMIfXj7BxaFCEXa-OXlaMUUo))  
+![Dashboard](https://drive.google.com/uc?export=view&id=1ObVrdjRnuMIfXj7BxaFCEXa-OXlaMUUo)  
 
 ---
 
