@@ -24,10 +24,10 @@ This project is built with **Java, Swing, and JDBC**, providing a simple interfa
 ## 🖼️ Screenshots  
 
 ### 1️⃣ Login Page  
-![Login Page](https://drive.google.com/file/d/1SWixBui4oK8caP5sl_yY-8q45Zsk0Fep/view?usp=sharing)  
+![Login Page](https://drive.google.com/uc?export=view&id=1SWixBui4oK8caP5sl_yY-8q45Zsk0Fep)  
 
 ### 2️⃣ Dashboard / Main Menu  
-![Dashboard]([images/dashboard.png](https://drive.google.com/file/d/1ObVrdjRnuMIfXj7BxaFCEXa-OXlaMUUo/view?usp=sharing))  
+![Dashboard]((https://drive.google.com/uc?export=view&id=1ObVrdjRnuMIfXj7BxaFCEXa-OXlaMUUo))  
 
 ---
 
@@ -50,7 +50,7 @@ This project is built with **Java, Swing, and JDBC**, providing a simple interfa
 
 3. Configure the **database**:  
    - Create a MySQL database (e.g., `bank_db`).  
-   - Import the provided SQL file (if available).  
+   - Import the provided SQL file (if available).
    - Update JDBC connection settings in the project.  
 
 4. Run the project:  
